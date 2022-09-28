@@ -5,7 +5,7 @@ This repository demonstrates how you can convert 24 Hours data to 5:30 Indian St
 
 # Access
 You can directly use current repository too.   
-The repository is also hosted at: https://asdfghjkl-asdf.github.io/
+This repository is also hosted at: https://asdfghjkl-asdf.github.io/
 
 # How it looks
 ![ss github project](https://user-images.githubusercontent.com/88789894/192711595-717865a8-ce37-4f78-bffb-4cd8fdbb7013.PNG)
