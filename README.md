@@ -3,6 +3,8 @@ Binance.com displays volume change, price change and other such information base
 
 This repository demonstrates how you can convert 24 Hours data to 5:30 Indian Standard Time data. So, volume and price changes will be based on day opening candle. Here, Day opening candle is considered as 5:30 IST (Indian standard time). You can change it according to your requirements too.
 
+Binance API and websockets are used to get data from BInance.Com
+
 # Access
 You can directly use current repository too.   
 This repository is also hosted at: https://asdfghjkl-asdf.github.io/
